@@ -11,13 +11,13 @@ Este repositório contém exercícios em **JavaScript** baseados nas aulas de Ma
 
 ex: `add(2, 3) → 5`
 
-- [ ] Aula 2 – Subtração
+- [x] Aula 2 – Subtração
 
 **Exercício**: Crie uma função que retorne a diferença entre os números.
 
 ex: `subtract(5, 3) → 2`
 
-- [ ] Aula 3 – Multiplicação
+- [x] Aula 3 – Multiplicação
 
 **Exercício**: Crie uma função que retorne o produto dos números.
 
