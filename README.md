@@ -5,7 +5,7 @@ Este repositório contém exercícios em **JavaScript** baseados nas aulas de Ma
 
 ## Exercícios
 
-- [ ] Aula 1 – Adição
+- [x] Aula 1 – Adição
 
 **Exercício**: Crie uma função que retorne a soma dos dois números.
 
