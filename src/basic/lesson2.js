@@ -2,17 +2,9 @@ const subtract = (firstNumber, secondNumber) => {
   return firstNumber - secondNumber;
 };
 
-const result = subtract(5, 3);
-
-console.log(result);
-
 const absoluteDifference = (firstNumber, secondNumber) => {
   return Math.abs(firstNumber - secondNumber);
 };
-
-const result1 = absoluteDifference(3, 5);
-
-console.log(result1);
 
 const subtractMany = (...params) => {
   let result = params[0];
@@ -24,6 +16,11 @@ const subtractMany = (...params) => {
   return result;
 };
 
-const result2 = subtractMany(20, 5, 3);
+const result = subtract(5, 3);
+console.log(result);
 
+const result1 = absoluteDifference(3, 5);
+console.log(result1);
+
+const result2 = subtractMany(20, 5, 3);
 console.log(result2);

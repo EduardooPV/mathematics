@@ -29,7 +29,7 @@ ex: `multiply(4, 6) → 24`
 
 ---
 
-- [ ] Aula 4 – Divisão
+- [x] Aula 4 – Divisão
 
 **Exercício**: Crie uma função que retorne o quociente entre os números.
 
