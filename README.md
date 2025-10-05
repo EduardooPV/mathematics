@@ -37,7 +37,7 @@ ex: `divide(10, 2) → 5`
 
 ---
 
--  Aula 5 – Expressões Numéricas
+- [x] Aula 5 – Expressões Numéricas
 
 **Exercício**: Crie uma função que resolva a expressão `2 + 3 * 4 - 6 / 2`.
 
